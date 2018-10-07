@@ -2,9 +2,5 @@
 
 alteracao para fetch
 
-
-lalalallalal 
-blalblalbla
-
-alteracao via linha de comando
+novo teste
 
